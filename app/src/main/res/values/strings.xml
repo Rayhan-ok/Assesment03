@@ -2,9 +2,11 @@
     <string name="app_name">Menu Makanan Mama Donald</string>
     <string name="lanjut">Lanjut</string>
     <string name="kembali">Kembali</string>
-    <string name="hewan_default">Ayam</string>
-    <string name="gambar_hewan">Gambar hewan</string>
-    <string name="message">%1$s diklik!</string>
+    <string name="message">%1$s dipesan!</string>
     <string name="action_switch_layout">Ubah layout</string>
     <string name="koneksi_error">Koneksi error</string>
+    <string name="channel_name">Updater</string>
+ <string name="channel_desc">Update data hewan otomatis</string>
+    <string name="notif_title">Laper?</string>
+ <string name="notif_text">Cek sekarang biar nggak kelaparan..</string>
 </resources>
